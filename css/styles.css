@@ -2,10 +2,10 @@ body {
   margin: 0;
   text-align: center;
   font-family: monospace;
-} 
+}
 
 h1 {
-  font-size: 200%;
+  font-size: 2rem;
   margin-top: 0;
   width: 30%;
   margin: 0 auto 0 auto;
@@ -15,19 +15,16 @@ h1 {
   background-color: aliceblue;
   position: relative;
   padding-top: 100px;
-
 }
 
 .who-am-I {
-  line-height:20%;
+  line-height: 20%;
 }
 
 .middle-container {
-  
 }
 
 .bottom-container {
-  
 }
 
 .pro {
